@@ -9,7 +9,7 @@
   
   inputs.src-suru-master.flake = false;
   inputs.src-suru-master.owner = "de-odex";
-  inputs.src-suru-master.ref   = "refs/heads/master";
+  inputs.src-suru-master.ref   = "master";
   inputs.src-suru-master.repo  = "suru";
   inputs.src-suru-master.type  = "github";
   
