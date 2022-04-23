@@ -42,11 +42,11 @@
     "src-suru-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1617112093,
-        "narHash": "sha256-xO/EP94WPmLnOOy1bvsZLIljpwLzYUtbAHxkY4FWq9U=",
+        "lastModified": 1649090335,
+        "narHash": "sha256-Ri+cKtLKp9NPFp5TaHXs0ohH45FQMKXXcjJJGpdqmxE=",
         "owner": "de-odex",
         "repo": "suru",
-        "rev": "e99984f309013bb4c0cdc32c59bcadea9d82b948",
+        "rev": "a0828235c6e039f630e541700d84d2a06fac29b3",
         "type": "github"
       },
       "original": {
